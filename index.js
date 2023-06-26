@@ -15,7 +15,7 @@ const randomAdvice = async () => {
         adviceText.innerText = data.slip.advice;
       });
   } catch (error) {
-    console.log("Something went wrong:", error);
+    console.log("Something went wrong: ", error.message);
   }
 };
 
