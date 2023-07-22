@@ -1,3 +1,5 @@
+// Should be removed later
+
 # Front-end Style Guide
 
 ## Layout
